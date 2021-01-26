@@ -1,6 +1,7 @@
 import random
 
-
+#esto es un cambio sin importancia
+#para seguir la clase de freddy
 def decision():
     choice = input("If you want to continue playing write yes, if not, write no:  ")
     choice = choice.replace(" ","")
