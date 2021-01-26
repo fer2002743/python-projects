@@ -5,6 +5,8 @@ import random
 
 ##################################
 #modificacion en el header
+################################
+#estos son otros cambios sin importancia hechos desde github
 def decision():
     choice = input("If you want to continue playing write yes, if not, write no:  ")
     choice = choice.replace(" ","")
